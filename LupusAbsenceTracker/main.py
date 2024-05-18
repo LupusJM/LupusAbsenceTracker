@@ -152,7 +152,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.absent_hours_label)
         layout.addWidget(self.absent_hours_input)
 
-        self.future_absent_hours_label = QLabel("Planning to miss", self)
+        self.future_absent_hours_label = QLabel("Planning to miss:", self)
         self.future_absent_hours_label.setFont(QFont("Fredoka One", 11))
         self.future_absent_hours_label.setStyleSheet("color: #FFFFFF;")
         self.future_absent_hours_input = QLineEdit(self)
