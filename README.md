@@ -39,8 +39,7 @@ python main.py
 
 ## Screenshots
 
-![exampleL](https://github.com/LupusJM/FetchIP/assets/163419314/1b0a6e6f-9ad4-4bb8-84d8-4be0b781da34)
-
+![exampleL](https://github.com/LupusJM/LupusAbsenceTracker/assets/163419314/573a9e90-86f2-41e7-b8cc-d7f64284652d)
 
 ## Notes
 - Tested and verified in Linux & Windows OS.
